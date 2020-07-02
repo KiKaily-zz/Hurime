@@ -1,1 +1,1 @@
-# Kun Koro Web
+# ETIP-2.0
